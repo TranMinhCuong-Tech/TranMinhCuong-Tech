@@ -128,7 +128,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranMinhCuong-Tech&theme=github-dark&hide_border=true&area=true" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TranMinhCuong-Tech&theme=github-dark&hide_border=true&area=true&custom_title=TranMinhCuong-Tech's%20Contribution%20Graph"
+    width="95%"
+  />
 </div>
 
 <p align="center">
