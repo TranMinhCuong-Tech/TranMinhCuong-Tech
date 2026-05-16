@@ -20,9 +20,22 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TranMinhCuong-Tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg)
+
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg)
+
 <b>My GitHub Stats</b>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TranMinhCuong-Tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TranMinhCuong-Tech&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TranMinhCuong-Tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+![](assets/Bottom_down.svg)
