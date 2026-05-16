@@ -26,10 +26,10 @@
 ### 📈 GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/workflows/grid-snake.svg)
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg)
+![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/workflows/grid-snake-dark.svg)
 
 <b>My GitHub Stats</b>
 
