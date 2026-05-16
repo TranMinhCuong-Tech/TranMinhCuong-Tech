@@ -17,25 +17,27 @@
 <p align="left"> <a href="https://www.github.com/TranMinhCuong-Tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/TranMinhCuong-Tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
 ### Badges
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TranMinhCuong-Tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+### GitHub Activity Graph:
 
 <!--   green snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg)
+![TranMinhCuong-Tech's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg)
 
 <!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg)
+![TranMinhCuong-Tech's github activity graph](https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg)
 
 <b>My GitHub Stats</b>
 
-# 📊 GitHub Stats:
+###  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=TranMinhCuong-Tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=TranMinhCuong-Tech&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TranMinhCuong-Tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 ![](assets/Bottom_down.svg)
