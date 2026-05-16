@@ -1,7 +1,7 @@
 ## GitHub Action for generating a contribution graph with a snake eating your contributions.
 ## GitHub Action для создания графика вкладов со змеей, пожирающей ваши взносы.
 
-name: generate snake animation
+name: generate animation
 
 on:
   # run automatically every 12 hours
@@ -11,13 +11,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the main branch
+  # run on every push on the master branch
   push:
     branches:
     - main
-
-permissions:
-  contents: write
 
 jobs:
   generate:
@@ -29,7 +26,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: TranMinhCuong-Tech
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
