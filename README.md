@@ -1,7 +1,17 @@
-Hi 👋 My name is Tran Minh Cuong
-================================
+<div align="center">
 
-I'm student
+  <img src="https://img.shields.io/badge/Hello%2C%20TranMinhCuong-Tech-0A66C2?style=for-the-badge&logo=starship&logoColor=white" alt="Header" />
+
+  <h1>Welcome to my profile!</h1>
+  <h3>CyberSecurity</h3>
+  
+  <br>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TranMinhCuong-Tech&color=0A66C2" alt="Profile Views" />
+  </p>
+  
+</div>
+
 
 * 🧠  I'm currently learning Cybersecurity, Redteam
 
@@ -13,6 +23,9 @@ I'm student
 
 <p align="left"> <a href="https://www.github.com/TranMinhCuong-Tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/TranMinhCuong-Tech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a></p>
 ### Badges
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TranMinhCuong-Tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <b>My GitHub Stats</b>
 
