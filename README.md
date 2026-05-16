@@ -127,6 +127,10 @@
 <img src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TranMinhCuong-Tech&theme=github-dark&hide_border=true&area=true" />
+</div>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
 </p>
