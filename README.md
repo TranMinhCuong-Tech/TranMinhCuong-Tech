@@ -62,8 +62,6 @@
 </a>
 </p>
 
----
-
 <!-- ========================= HEADER ========================= -->
 
 ![](./src/header_.png)
@@ -72,8 +70,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48">
 </a>
 
----
-
 <!-- ========================= TYPING SVG ========================= -->
 
 <p align="center">
@@ -81,8 +77,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Tran+Minh+Cuong;Cybersecurity+Student;Linux+Enthusiast;Backend+Developer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 </p>
-
----
 
 <!-- ========================= SOCIALS ========================= -->
 
@@ -107,8 +101,6 @@
 
 </p>
 
----
-
 <!-- ========================= TROPHIES ========================= -->
 
 # 🏆 GitHub Trophies
@@ -116,8 +108,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TranMinhCuong-Tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </p>
-
----
 
 <!-- ========================= SNAKE ========================= -->
 
@@ -138,8 +128,6 @@
 <img src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" />
 </p>
 
----
-
 <!-- ========================= STATS ========================= -->
 
 # 📊 GitHub Stats
@@ -155,8 +143,6 @@
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TranMinhCuong-Tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
-
----
 
 <p align="center">
 <img src="assets/Bottom_down.svg" />
