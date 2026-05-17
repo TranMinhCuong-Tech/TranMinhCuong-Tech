@@ -74,7 +74,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Tran+Minh+Cuong;Cybersecurity+Student;Linux+Enthusiast;Backend+Developer;Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Tran+Minh+Cuong;Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 </p>
 
