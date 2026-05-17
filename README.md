@@ -80,7 +80,7 @@
 
 <!-- ========================= SOCIALS ========================= -->
 
-# 🌐 Socials
+### 🌐 Socials
 
 <p align="center">
 
@@ -103,7 +103,7 @@
 
 <!-- ========================= TROPHIES ========================= -->
 
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TranMinhCuong-Tech&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
@@ -111,7 +111,7 @@
 
 <!-- ========================= SNAKE ========================= -->
 
-# 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -130,7 +130,7 @@
 
 <!-- ========================= STATS ========================= -->
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=TranMinhCuong-Tech&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
