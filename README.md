@@ -115,10 +115,6 @@ Hello, I'm **Tran Minh Cuong**.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake dark" />
 </p>
 
