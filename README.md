@@ -81,27 +81,6 @@
 
 <br />
 
-<table align="center" bgcolor="#0d1117"
- cellpadding="2" cellspacing="0"> 
-<tr> 
-  <td> 
-    <table align="center" bgcolor="#0d1117" cellpadding="12" cellspacing="0"> 
-      <tr> 
-        <td width="33%"> 
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TranMinhCuong-Tech&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" alt="Top languages" /> 
-          </td> 
-          <td width="33%"> 
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranMinhCuong-Tech&theme=transparent" alt="Stats summary" /> 
-          </td> 
-          <td width="33%"> 
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TranMinhCuong-Tech&theme=transparent&utc_offset=7" alt="Productive time" /> 
-          </td>
-        </tr> 
-      </table> 
-    </td> 
-  </tr> 
-</table>
-
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=TranMinhCuong-Tech&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
 </div>
