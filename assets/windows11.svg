@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title>Windows 11</title>
+  <rect width="128" height="128" rx="24" fill="#0A84FF"/>
+  <path d="M20 30l38-5v45H20V30zm0 38h38v45l-38-5V68zm50-13h38V25l-38 5v25zm0 14v45l38-5V69H70z" fill="#fff"/>
+</svg>
