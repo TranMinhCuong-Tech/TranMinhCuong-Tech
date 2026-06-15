@@ -87,11 +87,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/TranMinhCuong-Tech" alt="GitHub contribution chart" />
-</div>
-
-
 ## Tech Stack
 
 ### Languages
