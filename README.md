@@ -1,201 +1,160 @@
 <div align="center">
-  <img src="assets/Bottom_up.svg" alt="decorative wave" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5BROOT%40kali+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Ethical+Hacker+%7C+Red+Team+Operator)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-  <img src="./src/header_.png" alt="Tran Minh Cuong banner" width="100%" />
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗ ║
+║  ██╔══██╗██╔════╝██╔══██╗       ██╔══╝██╔════╝██╔══██╗████╗ ████║ ║
+║  ██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║ ║
+║  ██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║ ║
+║  ██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║ ║
+║  ╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ║
+╠═══════════════════════════════════════════════════════════════════╣
+║  Cybersecurity  |  Ethical Hacking  |  Red Team  |  Penetration   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Tran+Minh+Cuong;Welcome+to+my+profile!" alt="Typing SVG" />
-</p>
+---
 
+```bash
+[root@kali ~]# cat /proc/operator/profile
+```
+
+```
+┌─[operator]─[tran-minh-cuong]─[red-team]
+│
+├── NAME     : Tran Minh Cuong
+├── ROLE     : Cybersecurity Researcher / Red Team Operator
+├── FOCUS    : Offensive Security · Penetration Testing · Exploit Dev
+├── STACK    : C · C++ · Python · Bash · Assembly
+├── OS       : Kali Linux · BlackArch · Arch Linux (daily driver)
+├── SHELL    : Zsh / Fish (tmux sessions, always)
+└── MOTTO    : "Know the attack surface. Own the defense."
+```
+
+---
+
+```bash
+[root@kali ~]# ls -la /skills/
+```
+
+```
+drwxr-xr-x  OFFENSIVE/
+│   ├── network-reconnaissance
+│   ├── vulnerability-assessment
+│   ├── exploitation-techniques
+│   ├── post-exploitation
+│   └── red-team-operations
+│
+drwxr-xr-x  DEVELOPMENT/
+│   ├── c-c++-systems-programming
+│   ├── python-automation-scripting
+│   ├── bash-zsh-shell-scripting
+│   └── exploit-development
+│
+drwxr-xr-x  ENVIRONMENTS/
+│   ├── kali-linux [PRIMARY]
+│   ├── blackarch-linux
+│   ├── arch-linux
+│   ├── debian · ubuntu · fedora
+│   └── windows-11 [target/lab]
+│
+drwxr-xr-x  TOOLS/
+    ├── editors: neovim · vim · vscode
+    └── vcs: git · github · gitlab
+```
+
+---
+
+```bash
+[root@kali ~]# cat /var/log/operator/mindset.log
+```
+
+```
+[+] Attack with the mindset of the adversary.
+[+] Understand the system before you break it.
+[+] Clean code is secure code — no shortcuts.
+[+] Terminal-first. GUI is for the target, not the operator.
+[+] Document everything. A red teamer with no report is just a hacker.
+```
+
+---
+
+## // STATS & ACTIVITY
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4A84C&center=true&vCenter=true&width=820&lines=Tran+Minh+Cuong;Cybersecurity+%7C+Ethical+Hacking+%7C+Red+Team;C%2C+C%2B%2B%2C+Python+%7C+Git%2C+Bash%2C+Linux"
-    alt="Typing SVG"
-  />
+
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=TranMinhCuong-Tech&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ff3333&icon_color=ff3333&text_color=c9d1d9&ring_color=ff3333" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=TranMinhCuong-Tech&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=ff3333&fire=ff6b35&currStreakLabel=ff3333&sideLabels=ff3333" />
+
 </div>
 
-<br />
-
-## About Me
-
-<p align="center">
-  I’m <strong>Tran Minh Cuong</strong>, and I focus on <code>cybersecurity</code>, <code>ethical hacking</code>, and <code>red team</code> practices. I enjoy building clean systems around <code>C</code>, <code>C++</code>, <code>Python</code>, <code>Git</code>, <code>Bash</code>, and <code>Linux</code>, with an emphasis on clarity, security, and maintainability.
-</p>
-
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C03&center=true&vCenter=true&width=560&lines=Cybersecurity+Learner;Red+Team+Mindset;Linux+and+Terminal+First;Building+secure+workflows"
-    alt="About typing svg"
-  />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranMinhCuong-Tech&theme=github_dark" width="98%" />
+
 </div>
 
-<br />
+---
 
-##  Profile Stats
+## // CONTRIBUTION GRID
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Views</b></td>
-    <td align="center"><b>Followers</b></td>
-    <td align="center"><b>Stars</b></td>
-    <td align="center"><b>Open Source</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=TranMinhCuong-Tech&style=for-the-badge&color=blue" alt="Views" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/followers/TranMinhCuong-Tech?style=for-the-badge&logo=github" alt="Followers" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/github/stars/TranMinhCuong-Tech?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github" alt="Stars" />
-    </td>
-    <td>
-      <img src="https://awesome.re/badge.svg" alt="Awesome" />
-    </td>
-  </tr>
-</table>
+```bash
+[root@kali ~]# cat /proc/commits | graph --ascii
+```
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranMinhCuong-Tech&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TranMinhCuong-Tech&theme=github_dark&utcOffset=7" />
-</div>
-
-
-<div align="center">
-  <p>
-    I spend most of my time building and learning around <code>cybersecurity</code>, <code>ethical hacking</code>, <code>red team</code> practices, and low-level problem solving with <code>C</code>, <code>C++</code>, and <code>Python</code>.
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=TranMinhCuong-Tech&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=TranMinhCuong-Tech&theme=radical" alt="GitHub streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=TranMinhCuong-Tech&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</div>
-
-<br />
-
-## Tech Stack
-
-### Languages
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  </a>
-</p>
-
-### Version Control
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-  </a>
-</p>
-
-### Shell
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="36" height="36" />
-  </a>
-  <a href="https://www.zsh.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zsh/zsh-original.svg" alt="Zsh" title="Zsh" width="36" height="36" />
-  </a>
-  <a href="https://fishshell.com/" target="_blank" rel="noreferrer">
-    <img src="assets/fish-shell.svg" alt="Fish" title="Fish" width="36" height="36" />
-  </a>
-</p>
-
-### Operating Systems
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="36" height="36" />
-  </a>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
-    <img src="assets/windows11.svg" alt="Windows 11" title="Windows 11" width="36" height="36" />
-  </a>
-  <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" />
-  </a>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/archlinux.svg" alt="Arch Linux" title="Arch Linux" width="36" height="36" />
-  </a>
-  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/debian.svg" alt="Debian" title="Debian" width="36" height="36" />
-  </a>
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" alt="Kali Linux" title="Kali Linux" width="36" height="36" />
-  </a>
-  <a href="https://blackarch.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png" alt="BlackArch" title="BlackArch" width="36" height="36" />
-  </a>
-</p>
-
-### Editors
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" />
-  </a>
-  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" />
-  </a>
-</p>
-
-##  Connect with Me
-
-<p align="center">
-  <a href="https://github.com/TranMinhCuong-Tech" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" title="GitHub" width="40" height="40" />
-  </a>
-  <a href="https://www.gitlab.com/TranMinhCuong-Tech" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gitlab.svg" alt="GitLab" title="GitLab" width="40" height="40" />
-  </a>
-</p>
-
-<br />
-
-## My Code Kingdom
-
-<div align="center">
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/TranMinhCuong-Tech/TranMinhCuong-Tech/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
+---
 
-<br />
+## // CONTACT
+
+```bash
+[root@kali ~]# nmap --open -p social TranMinhCuong-Tech
+```
+
+```
+Starting scan...
+
+PORT       STATE   SERVICE
+github     open    https://github.com/TranMinhCuong-Tech
+gitlab     open    https://gitlab.com/TranMinhCuong-Tech
+
+Scan complete. 2/2 hosts up.
+```
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00C4CC&width=520&lines=Tran+Minh+Cuong+%E2%80%94+Security+Focused+Developer;Clean+code%2C+clear+systems%2C+strong+habits;Building+with+Linux%2C+Python%2C+and+purpose"
-    alt="Closing typing svg"
-  />
+
+[![GitHub](https://img.shields.io/badge/GitHub-TranMinhCuong--Tech-0d1117?style=for-the-badge&logo=github&logoColor=ff3333&labelColor=0d1117)](https://github.com/TranMinhCuong-Tech)
+[![GitLab](https://img.shields.io/badge/GitLab-TranMinhCuong--Tech-0d1117?style=for-the-badge&logo=gitlab&logoColor=ff3333&labelColor=0d1117)](https://www.gitlab.com/TranMinhCuong-Tech)
+
 </div>
 
+---
+
 <div align="center">
-  <img src="assets/Bottom_down.svg" alt="decorative wave" width="100%" />
+
+```
+╔══════════════════════════════════════════════════════╗
+║  [*] Session active       [*] Shell: /bin/zsh        ║
+║  [*] Privilege: ROOT      [*] Mission: ONGOING        ║
+║  [*] Target: Knowledge    [*] Exit code: never        ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=TranMinhCuong-Tech&style=flat-square&color=ff3333&label=profile+views&labelColor=0d1117)
+
 </div>
