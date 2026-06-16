@@ -1,4 +1,4 @@
-<img width="1638" height="556" alt="image" src="https://github.com/user-attachments/assets/dd95b824-4759-4a3f-83f9-b9d40461c9a7" /><div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5BROOT%40kali+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Ethical+Hacker+%7C+Red+Team+Operator)](https://git.io/typing-svg)
 
