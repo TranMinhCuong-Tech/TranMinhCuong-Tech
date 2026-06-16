@@ -150,8 +150,8 @@ Scan complete. 2/2 hosts up.
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  [*] Session active       [*] Shell: /bin/zsh        ║
-║  [*] Privilege: ROOT      [*] Mission: ONGOING        ║
-║  [*] Target: Knowledge    [*] Exit code: never        ║
+║  [*] Privilege: ROOT      [*] Mission: ONGOING       ║
+║  [*] Target: Knowledge    [*] Exit code: never       ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
