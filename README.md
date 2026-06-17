@@ -102,7 +102,6 @@ drwxr-xr-x  TOOLS/
 
 ---
 
-## // CONTRIBUTION GRID
 
 ```bash
 [root@kali ~]# cat /proc/commits | graph --ascii
@@ -118,7 +117,6 @@ drwxr-xr-x  TOOLS/
 
 ---
 
-## // CONTACT
 
 ```bash
 [root@kali ~]# nmap --open -p social TranMinhCuong-Tech
