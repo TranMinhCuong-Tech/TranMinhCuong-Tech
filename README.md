@@ -22,7 +22,8 @@
 ---
 
 ```bash
-[root@kali ~]# cat /proc/operator/profile
+┌──(root㉿cuong)-[~]
+└─# cat /proc/operator/profile
 ```
 
 ```
@@ -40,7 +41,8 @@
 ---
 
 ```bash
-[root@kali ~]# ls -la /skills/
+┌──(root㉿cuong)-[~]
+└─# ls -la /skills/
 ```
 
 ```
@@ -72,7 +74,8 @@ drwxr-xr-x  TOOLS/
 ---
 
 ```bash
-[root@kali ~]# cat /var/log/operator/mindset.log
+┌──(root㉿cuong)-[~]
+└─# cat /var/log/operator/mindset.log
 ```
 
 ```
@@ -84,8 +87,10 @@ drwxr-xr-x  TOOLS/
 ```
 
 ---
-
-## // STATS & ACTIVITY
+```bash
+┌──(root㉿cuong)-[~]
+└─# cat /status & /acivity
+```
 
 <div align="center">
 
@@ -104,7 +109,8 @@ drwxr-xr-x  TOOLS/
 
 
 ```bash
-[root@kali ~]# cat /proc/commits | graph --ascii
+┌──(root㉿cuong)-[~]
+└─# cat /proc/commits | graph --ascii
 ```
 
 <div align="center">
@@ -119,7 +125,8 @@ drwxr-xr-x  TOOLS/
 
 
 ```bash
-[root@kali ~]# nmap --open -p social TranMinhCuong-Tech
+┌──(root㉿cuong)-[~]
+└─# nmap --open -p social TranMinhCuong-Tech
 ```
 
 ```
