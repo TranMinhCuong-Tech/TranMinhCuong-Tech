@@ -89,7 +89,7 @@ drwxr-xr-x  TOOLS/
 ---
 ```bash
 ┌──(root㉿cuong)-[~]
-└─# cat /status & /acivity
+└─# cat /profile/status & /profile/acivity
 ```
 
 <div align="center">
