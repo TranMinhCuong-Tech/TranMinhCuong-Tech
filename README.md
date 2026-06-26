@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5Broot%40cuong+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Blacksite+Operator+%7C+Threat+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5Broot%40cuong+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Ethical+Hacker+%7C+Red+Team+Operator)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ╠      ▐█▌   ██████  ██▀▀▀██ ██   ██      ██ ██ ██  ██  ██   ██ ██▀▀▀██      ██      ██   ██ ██   ██ ██   ██ ██   ██    ╠
 ╠      ▐█▌   ██  ▀██ ██   ██ ██   ██      ██ ██ ██ ▐██▌ ██   ██ ██   ██      ▀█████▀ ▀█████▀ ▀█████▀ ██   ██ ▀█████▀    ║
 ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║          Blacksite Ops      |         Adversary Emulation    |          Red Team          |      Exploit Development   ║
+║         Cybersecurity       |         Ethical Hacking        |          Red Team          |        Penetration        ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -31,32 +31,13 @@
 │
 ├── NAME     : Tran Minh Cuong
 ├── HANDLE   : TranMInhCuong-Tech
-├── ROLE     : Blacksite Operator / Threat Researcher
-├── FOCUS    : Offensive Security · Adversary Emulation · Exploit Dev · OpSec
+├── ROLE     : Cybersecurity Researcher / Red Team Operator
+├── FOCUS    : Offensive Security · Penetration Testing · Exploit Dev
 ├── STACK    : C · C++ · Python · Bash · Assembly
 ├── OS       : Kali Linux · BlackArch · Arch Linux
 ├── SHELL    : Bash / Zsh / Fish
-└── MOTTO    : "Stay quiet. Move clean. Leave no trace."
+└── MOTTO    : Know the attack surface. Own the defense.
 ```
-
----
-
-<div align="center">
-
-```bash
-┌──(root㉿cuong)-[~]
-└─# cat /var/log/operator/mindset.log
-```
-
-```
-[+] Minimize noise. Maximize signal.
-[+] Validate assumptions before execution.
-[+] Prefer silent tradecraft over noisy shortcuts.
-[+] Terminal-first. GUI stays on the target.
-[+] Every finding needs impact, evidence, and a clean report.
-```
-
-</div>
 
 ---
 
@@ -66,19 +47,44 @@
 ```
 
 ```
-drwxr-xr-x  OFFENSIVE/                  drwxr-xr-x  DEVELOPMENT/
-│   ├── network-reconnaissance          │   ├── c-c++-systems-programming
-│   ├── vulnerability-assessment        │   ├── python-automation-scripting
-│   ├── exploitation-techniques         │   ├── bash-zsh-shell-scripting
-│   ├── post-exploitation              │   └── exploit-development
+drwxr-xr-x  OFFENSIVE/
+│   ├── network-reconnaissance
+│   ├── vulnerability-assessment
+│   ├── exploitation-techniques
+│   ├── post-exploitation
 │   └── red-team-operations
 │
-drwxr-xr-x  ENVIRONMENTS/               drwxr-xr-x  TOOLCHAIN/
-│   ├── kali-linux [PRIMARY]            │   ├── editors: neovim · vim · vscode
-│   ├── blackarch-linux                 │   └── vcs: git · github · gitlab
+drwxr-xr-x  DEVELOPMENT/
+│   ├── c-c++-systems-programming
+│   ├── python-automation-scripting
+│   ├── bash-zsh-shell-scripting
+│   └── exploit-development
+│
+drwxr-xr-x  ENVIRONMENTS/
+│   ├── kali-linux [PRIMARY]
+│   ├── blackarch-linux
 │   ├── arch-linux
 │   ├── debian · ubuntu · fedora
 │   └── windows-11 [target/lab]
+│
+drwxr-xr-x  TOOLCHAIN/
+    ├── editors: neovim · vim · vscode
+    └── vcs: git · github · gitlab
+```
+
+---
+
+```bash
+┌──(root㉿cuong)-[~]
+└─# cat /var/log/operator/mindset.log
+```
+
+```
+[+] Think like an adversary, document like a professional.
+[+] Understand the system before you break it.
+[+] Prefer clean execution over noisy shortcuts.
+[+] Terminal-first. GUI is for the target, not the operator.
+[+] Every finding needs context, impact, and proof.
 ```
 
 ---
@@ -116,8 +122,6 @@ drwxr-xr-x  ENVIRONMENTS/               drwxr-xr-x  TOOLCHAIN/
 </picture>
 </div>
 
----
-
 ```bash
 ┌──(root㉿cuong)-[~]
 └─# nmap --open -p social TranMInhCuong-Tech
@@ -147,8 +151,8 @@ Scan complete. 2/2 hosts up.
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  [*] Session active       [*] Shell: /bin/zsh        ║
-║  [*] Privilege: ROOT      [*] Mission: STEALTH       ║
-║  [*] Target: Knowledge    [*] Exit code: null        ║
+║  [*] Privilege: ROOT      [*] Mission: ONGOING       ║
+║  [*] Target: Knowledge    [*] Exit code: never       ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
