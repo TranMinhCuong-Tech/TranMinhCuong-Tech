@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5Broot%40cuong+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Ethical+Hacker+%7C+Red+Team+Operator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5Broot%40cuong+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Blacksite+Operator+%7C+Threat+Researcher)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 ╠      ▐█▌   ██████  ██▀▀▀██ ██   ██      ██ ██ ██  ██  ██   ██ ██▀▀▀██      ██      ██   ██ ██   ██ ██   ██ ██   ██    ╠
 ╠      ▐█▌   ██  ▀██ ██   ██ ██   ██      ██ ██ ██ ▐██▌ ██   ██ ██   ██      ▀█████▀ ▀█████▀ ▀█████▀ ██   ██ ▀█████▀    ║
 ╠═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║         Cybersecurity       |         Ethical Hacking        |          Red Team          |        Penetration        ║
+║          Blacksite Ops      |         Adversary Emulation    |          Red Team          |      Exploit Development   ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -30,13 +30,33 @@
 ┌─[operator]─[tran-minh-cuong]─[red-team]
 │
 ├── NAME     : Tran Minh Cuong
-├── ROLE     : Cybersecurity Researcher / Red Team Operator
-├── FOCUS    : Offensive Security · Penetration Testing · Exploit Dev
+├── HANDLE   : TranMInhCuong-Tech
+├── ROLE     : Blacksite Operator / Threat Researcher
+├── FOCUS    : Offensive Security · Adversary Emulation · Exploit Dev · OpSec
 ├── STACK    : C · C++ · Python · Bash · Assembly
-├── OS       : Kali Linux · BlackArch · Arch Linux (daily driver)
-├── SHELL    : Bash / Zsh / Fish (tmux sessions, always)
-└── MOTTO    : "Know the attack surface. Own the defense."
+├── OS       : Kali Linux · BlackArch · Arch Linux
+├── SHELL    : Bash / Zsh / Fish
+└── MOTTO    : "Stay quiet. Move clean. Leave no trace."
 ```
+
+---
+
+<div align="center">
+
+```bash
+┌──(root㉿cuong)-[~]
+└─# cat /var/log/operator/mindset.log
+```
+
+```
+[+] Minimize noise. Maximize signal.
+[+] Validate assumptions before execution.
+[+] Prefer silent tradecraft over noisy shortcuts.
+[+] Terminal-first. GUI stays on the target.
+[+] Every finding needs impact, evidence, and a clean report.
+```
+
+</div>
 
 ---
 
@@ -46,50 +66,26 @@
 ```
 
 ```
-drwxr-xr-x  OFFENSIVE/
-│   ├── network-reconnaissance
-│   ├── vulnerability-assessment
-│   ├── exploitation-techniques
-│   ├── post-exploitation
+drwxr-xr-x  OFFENSIVE/                  drwxr-xr-x  DEVELOPMENT/
+│   ├── network-reconnaissance          │   ├── c-c++-systems-programming
+│   ├── vulnerability-assessment        │   ├── python-automation-scripting
+│   ├── exploitation-techniques         │   ├── bash-zsh-shell-scripting
+│   ├── post-exploitation              │   └── exploit-development
 │   └── red-team-operations
 │
-drwxr-xr-x  DEVELOPMENT/
-│   ├── c-c++-systems-programming
-│   ├── python-automation-scripting
-│   ├── bash-zsh-shell-scripting
-│   └── exploit-development
-│
-drwxr-xr-x  ENVIRONMENTS/
-│   ├── kali-linux [PRIMARY]
-│   ├── blackarch-linux
+drwxr-xr-x  ENVIRONMENTS/               drwxr-xr-x  TOOLCHAIN/
+│   ├── kali-linux [PRIMARY]            │   ├── editors: neovim · vim · vscode
+│   ├── blackarch-linux                 │   └── vcs: git · github · gitlab
 │   ├── arch-linux
 │   ├── debian · ubuntu · fedora
 │   └── windows-11 [target/lab]
-│
-drwxr-xr-x  TOOLS/
-    ├── editors: neovim · vim · vscode
-    └── vcs: git · github · gitlab
 ```
 
 ---
 
 ```bash
 ┌──(root㉿cuong)-[~]
-└─# cat /var/log/operator/mindset.log
-```
-
-```
-[+] Attack with the mindset of the adversary.
-[+] Understand the system before you break it.
-[+] Clean code is secure code — no shortcuts.
-[+] Terminal-first. GUI is for the target, not the operator.
-[+] Document everything. A red teamer with no report is just a hacker.
-```
-
----
-```bash
-┌──(root㉿cuong)-[~]
-└─# cat /profile/status & /profile/acivity
+└─# cat /profile/status & /profile/activity
 ```
 
 <div align="center">
@@ -107,7 +103,6 @@ drwxr-xr-x  TOOLS/
 
 ---
 
-
 ```bash
 ┌──(root㉿cuong)-[~]
 └─# cat /proc/commits | graph --ascii
@@ -123,26 +118,25 @@ drwxr-xr-x  TOOLS/
 
 ---
 
-
 ```bash
 ┌──(root㉿cuong)-[~]
-└─# nmap --open -p social TranMinhCuong-Tech
+└─# nmap --open -p social TranMInhCuong-Tech
 ```
 
 ```
 Starting scan...
 
 PORT       STATE   SERVICE
-github     open    https://github.com/TranMinhCuong-Tech
-gitlab     open    https://gitlab.com/TranMinhCuong-Tech
+github     open    https://github.com/TranMInhCuong-Tech
+gitlab     open    https://gitlab.com/TranMInhCuong-Tech
 
 Scan complete. 2/2 hosts up.
 ```
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-TranMinhCuong--Tech-0d1117?style=for-the-badge&logo=github&logoColor=ff3333&labelColor=0d1117)](https://github.com/TranMinhCuong-Tech)
-[![GitLab](https://img.shields.io/badge/GitLab-TranMinhCuong--Tech-0d1117?style=for-the-badge&logo=gitlab&logoColor=ff3333&labelColor=0d1117)](https://www.gitlab.com/TranMinhCuong-Tech)
+[![GitHub](https://img.shields.io/badge/GitHub-TranMInhCuong--Tech-0d1117?style=for-the-badge&logo=github&logoColor=ff3333&labelColor=0d1117)](https://github.com/TranMInhCuong-Tech)
+[![GitLab](https://img.shields.io/badge/GitLab-TranMInhCuong--Tech-0d1117?style=for-the-badge&logo=gitlab&logoColor=ff3333&labelColor=0d1117)](https://www.gitlab.com/TranMInhCuong-Tech)
 
 </div>
 
@@ -153,8 +147,8 @@ Scan complete. 2/2 hosts up.
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  [*] Session active       [*] Shell: /bin/zsh        ║
-║  [*] Privilege: ROOT      [*] Mission: ONGOING       ║
-║  [*] Target: Knowledge    [*] Exit code: never       ║
+║  [*] Privilege: ROOT      [*] Mission: STEALTH       ║
+║  [*] Target: Knowledge    [*] Exit code: null        ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
