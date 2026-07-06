@@ -6,7 +6,7 @@
 
 <div align="center">
 
-```
+```bash
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║   ████████╗██████╗  █████╗ ███╗   ██╗    ███╗   ███╗██╗███╗   ██╗██╗  ██╗     ██████╗██╗   ██╗ ██████╗ ███╗   ██╗ ██████╗    ║
 ║   ╚══██╔══╝██╔══██╗██╔══██╗████╗  ██║    ████╗ ████║██║████╗  ██║██║  ██║    ██╔════╝██║   ██║██╔═══██╗████╗  ██║██╔════╝    ║
@@ -28,7 +28,7 @@
 └─# cat /proc/operator/profile
 ```
 
-```
+```bash
 ┌─[operator]─[tran-minh-cuong]─[red-team]
 │
 ├── NAME     : Tran Minh Cuong
@@ -48,7 +48,7 @@
 └─# ls -la /skills/
 ```
 
-```
+```bash
 drwxr-xr-x  OFFENSIVE/
 │   ├── network-reconnaissance
 │   ├── vulnerability-assessment
@@ -81,7 +81,7 @@ drwxr-xr-x  TOOLCHAIN/
 └─# cat /var/log/operator/mindset.log
 ```
 
-```
+```bash
 [+] Think like an adversary, document like a professional.
 [+] Understand the system before you break it.
 [+] Prefer clean execution over noisy shortcuts.
@@ -129,7 +129,7 @@ drwxr-xr-x  TOOLCHAIN/
 └─# nmap --open -p social TranMInhCuong-Tech
 ```
 
-```
+```bash
 Starting scan...
 
 PORT       STATE   SERVICE
@@ -150,7 +150,7 @@ Scan complete. 2/2 hosts up.
 
 <div align="center">
 
-```
+```bash
 ╔══════════════════════════════════════════════════════╗
 ║  [*] Session active       [*] Shell: /bin/zsh        ║
 ║  [*] Privilege: ROOT      [*] Mission: ONGOING       ║
