@@ -1,11 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=%5Broot%40cuong+~%5D%23+whoami;Tran+Minh+Cuong;%5BROOT%40kali+~%5D%23+cat+%2Fetc%2Fmission;Ethical+Hacker+%7C+Red+Team+Operator)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║   ████████╗██████╗  █████╗ ███╗   ██╗    ███╗   ███╗██╗███╗   ██╗██╗  ██╗     ██████╗██╗   ██╗ ██████╗ ███╗   ██╗ ██████╗    ║
@@ -14,8 +8,6 @@
 ║      ██║   ██╔══██╗██╔══██║██║╚██╗██║    ██║╚██╔╝██║██║██║╚██╗██║██╔══██║    ██║     ██║   ██║██║   ██║██║╚██╗██║██║   ██║   ║
 ║      ██║   ██║  ██║██║  ██║██║ ╚████║    ██║ ╚═╝ ██║██║██║ ╚████║██║  ██║    ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║╚██████╔╝   ║
 ║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝    ║
-╠══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╣
-║         Cybersecurity       |         Ethical Hacking        |          Red Team          |           Penetration            ║
 ╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -29,15 +21,15 @@
 ```
 
 ```
-┌─[operator]─[tran-minh-cuong]─[red-team]
+┌─[operator]─[tran-minh-cuong]
 │
 ├── NAME     : Tran Minh Cuong
 ├── HANDLE   : TranMInhCuong-Tech
-├── ROLE     : Cybersecurity Researcher / Red Team Operator
+├── ROLE     : Cybersecurity
 ├── FOCUS    : Offensive Security · Penetration Testing · Exploit Dev
-├── STACK    : C · C++ · Python · Bash · Assembly
-├── OS       : Kali Linux · BlackArch · Arch Linux
-├── SHELL    : Bash / Zsh / Fish
+├── STACK    : C · C++ · Python · Bash
+├── OS       : Linux · Windows 11
+├── SHELL    : Bash · Zsh · Fish
 └── MOTTO    : Know the attack surface. Own the defense.
 ```
 
@@ -70,8 +62,11 @@ drwxr-xr-x  ENVIRONMENTS/
 │   └── windows-11 [target/lab]
 │
 drwxr-xr-x  TOOLCHAIN/
-    ├── editors: neovim · vim · vscode
-    └── vcs: git · github · gitlab
+│   ├── editors: neovim · vim · vscode
+│   └── vcs: git · github · gitlab
+│
+drwxr-xr-x  LANGUAGES/
+    └── English
 ```
 
 ---
@@ -132,32 +127,12 @@ drwxr-xr-x  TOOLCHAIN/
 ```
 Starting scan...
 
-PORT       STATE   SERVICE
-github     open    https://github.com/TranMInhCuong-Tech
-gitlab     open    https://gitlab.com/TranMInhCuong-Tech
+PORT         STATE     SERVICE
+email        open      cuong20022006@gmail.com
+github       open      https://github.com/TranMInhCuong-Tech
+gitlab       open      https://gitlab.com/TranMInhCuong-Tech
+linkedin     open      https://www.linkedin.com/in/minh-c%C6%B0%E1%BB%9Dng-tr%E1%BA%A7n-066543414
+instagram    open      https://www.instagram.com/minhcuong3430/
 
-Scan complete. 2/2 hosts up.
+Scan complete. 5/5 hosts up.
 ```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-TranMInhCuong--Tech-0d1117?style=for-the-badge&logo=github&logoColor=ff3333&labelColor=0d1117)](https://github.com/TranMInhCuong-Tech)
-[![GitLab](https://img.shields.io/badge/GitLab-TranMInhCuong--Tech-0d1117?style=for-the-badge&logo=gitlab&logoColor=ff3333&labelColor=0d1117)](https://www.gitlab.com/TranMInhCuong-Tech)
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║  [*] Session active       [*] Shell: /bin/zsh        ║
-║  [*] Privilege: ROOT      [*] Mission: ONGOING       ║
-║  [*] Target: Knowledge    [*] Exit code: never       ║
-╚══════════════════════════════════════════════════════╝
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=TranMinhCuong-Tech&style=flat-square&color=ff3333&label=profile+views&labelColor=0d1117)
-
-</div>
