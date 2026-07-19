@@ -32,7 +32,7 @@ TranMinhCuong-Tech
 
 **Role**
 
-Cybersecurity Student
+Cybersecurity
 
 **Focus**
 
@@ -44,13 +44,11 @@ Cybersecurity Student
 
 ## EDUCATION
 
-**University** 
-
-CMC University of Transport
-
 **Major**
 
 Information Technology
+
+Computer Science
 
 **Specialization**
 
