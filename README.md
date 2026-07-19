@@ -18,7 +18,7 @@
 <table>
 <tr>
 
-<td width="30%" valign="top">
+<td width="40%" valign="top">
 
 ## PROFILE
 
