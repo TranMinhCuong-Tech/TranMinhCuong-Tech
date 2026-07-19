@@ -9,7 +9,7 @@
    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ 
 </pre>
 
-<h3>Cybersecurity Student • Offensive Security • Linux • Reverse Engineering</h3>
+<h3>Cybersecurity • Offensive Security • Linux • Reverse Engineering</h3>
 
 </div>
 
@@ -22,17 +22,11 @@
 
 ## PROFILE
 
-**Name** 
+**Name**  : Tran Minh Cuong
 
-Tran Minh Cuong
+**Username** : TranMinhCuong-Tech
 
-**Username**
-
-TranMinhCuong-Tech
-
-**Role**
-
-Cybersecurity
+**Role** : Cybersecurity
 
 **Focus**
 
@@ -46,21 +40,21 @@ Cybersecurity
 
 **Major**
 
-Information Technology
+- Information Technology
 
-Computer Science
+- Computer Science
 
 **Specialization**
 
-Cybersecurity
+- Cybersecurity
 
 ---
 
 ## LANGUAGES
 
-Vietnamese (Native)
+- Vietnamese (Native)
 
-English (Intermediate)
+- English (Intermediate)
 
 ---
 
@@ -101,21 +95,13 @@ English (Intermediate)
 
 ## CONTACT
 
-**Email** 
+- **Email**  : cuong20022006@gmail.com
 
-cuong20022006@gmail.com
+- **GitHub** : TranMinhCuong-Tech
 
-**GitHub**
+- **GitLab**  : TranMinhCuong-Tech
 
-TranMinhCuong-Tech
-
-**GitLab** 
-
-TranMinhCuong-Tech
-
-**LinkedIn** 
-
-minh-cường-trần-066543414
+- **LinkedIn** : minh-cường-trần-066543414
 
 </td>
 
